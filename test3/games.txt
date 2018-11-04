@@ -1,0 +1,64 @@
+{
+    "games" : [
+        {
+            "broj":"1" ,
+            "naziv":"Assassin's Creed" ,
+            "slika":"1.jpg" ,
+            "datumizlaska":"5. oktobar 2018." ,
+            "izvodjac":"Ubisoft" ,
+            "zanr":"Action-adventure" ,
+            "ocjena":"9.4",
+            "ign":"https://www.ign.com/articles/2018/10/01/assassins-creed-odyssey-review"
+        },
+        {
+            "broj":"2" ,
+            "naziv":"Battlefield" ,
+            "slika":"2.jpg" ,
+            "datumizlaska":"21. oktobar 2016." ,
+            "izvodjac":"Electronic Arts" ,
+            "zanr":"First-person shooter" ,
+             "ocjena":"8",
+             "ign":"https://adria.ign.com/battlefield-next"
+        },
+        {
+            "broj":"3" ,
+            "naziv":"Minecraft" , 
+            "slika":"3.jpg" , 
+            "datumizlaska":"17. maj 2009." , 
+            "izvodjac":"Mojang" , 
+            "zanr":"Indie game" , 
+            "ocjena":"10",
+            "ign":"https://adria.ign.com/minecraft"
+        },
+        {
+            "broj":"4" ,
+             "naziv":"Fifa 2019" ,
+             "slika":"4.jpg" , 
+             "datumizlaska":"28. septembar 2018." , 
+             "izvodjac":"Frostbite", 
+             "zanr":"Sports game" , 
+             "ocjena":"9.2",
+             "ign":"https://www.ign.com/articles/2018/09/19/fifa-19-review"
+            },
+        {
+            "broj":"5" , 
+            "naziv":"Mario" ,
+            "slika":"5.jpg" , 
+            "datumizlaska":"28. septembar 2018." , 
+            "izvodjac":"Nintendo" , 
+            "zanr":"Platform game" , 
+            "ocjena":"10",
+            "ign":"https://www.ign.com/wikis/super-mario-odyssey"
+        },
+        {
+            "broj":"6" , 
+            "naziv":"Samurai Warriors 2" ,
+            "slika":"6.jpg" , 
+            "datumizlaska":"27. jun 2008." , 
+            "izvodjac":"Koei" , 
+            "zanr":"Hack and slash" , 
+            "ocjena":"7",
+            "ign":"https://www.ign.com/articles/2006/09/20/samurai-warriors-2-review"
+        }
+    ]
+}
